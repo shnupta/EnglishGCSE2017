@@ -30,7 +30,7 @@
     - The "capitals and monoliths" represent goverments and buildings all of which are temporary compared to nature
 
 ### Other poems
-- #### london
+- #### London
     - Fustration to the misuse of human power, speaker feels it is used to control insted of helping people
 
 - #### Storm on the Island
