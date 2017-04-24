@@ -6,10 +6,10 @@ No current resources available.
 
 ## Literature GCSE
 ### The literature pieces are:
-- [Macbeth](https://github.com/shnupta/englishgcse2017/tree/master/Literature/Macbeth)
+- [Macbeth](#Macbeth)
 - A Christmas Carol
 - An Inspector Calls
-- [Power and Conflict Poetry](https://github.com/shnupta/EnglishGCSE2017/tree/master/Literature/Power%20and%20Conflict%20Poetry)
+- [Power and Conflict Poetry](#power-and-conflict-poetry)
 
 ### Macbeth
 #### Characters:
