@@ -42,8 +42,8 @@ View the [table of themes.](https://github.com/shnupta/EnglishGCSE2017/blob/mast
 
 #### Themes:
 - [x] [Power of Humans](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes/Power%20of%20humans.md)
-- [ ] Power of Nature
-- [ ] Effects of Conflict
+- [x] [Power of Nature] (https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes/Power%20of%20nature.md)
+- [x] [Effects of Conflict] (https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes/Effects%20of%20conflict.md)
 - [ ] Reality of Conflict
 - [ ] Loss and Absence
 - [ ] Memory
