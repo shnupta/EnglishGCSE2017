@@ -40,7 +40,7 @@ Not yet done.
 ### Power and Conflict Poetry
 View the [table of themes.](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes.md)
 
-### Themes:
+#### Themes:
 - [x] [Power of Humans](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes/Power%20of%20humans.md)
 - [ ] Power of Nature
 - [ ] Effects of Conflict
