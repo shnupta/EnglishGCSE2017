@@ -23,9 +23,9 @@ No current resources available.
 - [x] [The Witches](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Characters/The%20Witches.md)
 
 #### Themes:
-- [ ] Ambition
-- [ ] Loyalty and Betrayal
-- [ ] Kingship
+- [x] [Ambition](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Themes/Ambition.md)
+- [x] [Loyalty and Betrayal](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Themes/Loyalty%20and%20Betrayal.md)
+- [x] [Kingship](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Themes/Kingship.md)
 - [ ] Good and Evil
 - [ ] The Supernatural
 - [ ] Reality and Appearances
