@@ -26,10 +26,10 @@ No current resources available.
 - [x] [Ambition](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Themes/Ambition.md)
 - [x] [Loyalty and Betrayal](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Themes/Loyalty%20and%20Betrayal.md)
 - [x] [Kingship](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Themes/Kingship.md)
-- [ ] Good and Evil
-- [ ] The Supernatural
-- [ ] Reality and Appearances
-- [ ] Fate and Free Will
+- [x] [Good and Evil](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Themes/Good%20and%20Evil.md)
+- [x] [The Supernatural](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Themes/The%20Supernatural.md)
+- [x] [Reality and Appearances](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Themes/Reality%20and%20Appearances.md)
+- [x] [Fate and Free Will](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Themes/Fate%20and%20Free%20Will.md)
 
 #### Shakespeare's Techniques
 - [ ] The Structure of Macbeth
