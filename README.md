@@ -31,6 +31,13 @@ No current resources available.
 - [ ] Reality and Appearances
 - [ ] Fate and Free Will
 
+#### Shakespeare's Techniques
+- [ ] The Structure of Macbeth
+- [ ] Mood and Atmosphere
+- [ ] Poetry in Shakespeare
+- [ ] Puns and Wordplay
+- [ ] Imagery and Symbolism
+
 ### A Christmas Carol
 Not yet done.
 
