@@ -33,8 +33,8 @@ No current resources available.
 
 #### Shakespeare's Techniques
 - [x] [The Structure of Macbeth](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Shakepeare-s%20Techniques/The%20Structure%20of%20Macbeth.md)
-- [ ] Mood and Atmosphere
-- [ ] Poetry in Shakespeare
+- [x] [Mood and Atmosphere](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Shakepeare-s%20Techniques/Mood%20and%20Atmosphere.md)
+- [x] [Poetry in Shakespeare](https://github.com/shnupta/EnglishGCSE2017/tree/master/Literature/Macbeth/Shakepeare-s%20Techniques)
 - [ ] Puns and Wordplay
 - [ ] Imagery and Symbolism
 
