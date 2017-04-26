@@ -32,7 +32,7 @@ No current resources available.
 - [x] [Fate and Free Will](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Themes/Fate%20and%20Free%20Will.md)
 
 #### Shakespeare's Techniques
-- [ ] The Structure of Macbeth
+- [x] [The Structure of Macbeth](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Shakepeare-s%20Techniques/The%20Structure%20of%20Macbeth.md)
 - [ ] Mood and Atmosphere
 - [ ] Poetry in Shakespeare
 - [ ] Puns and Wordplay
