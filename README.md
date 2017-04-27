@@ -35,7 +35,7 @@ No current resources available.
 - [x] [The Structure of Macbeth](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Shakepeare-s%20Techniques/The%20Structure%20of%20Macbeth.md)
 - [x] [Mood and Atmosphere](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Shakepeare-s%20Techniques/Mood%20and%20Atmosphere.md)
 - [x] [Poetry in Shakespeare](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Shakepeare-s%20Techniques/Poetry%20in%20Shakespeare.md)
-- [ ] Puns and Wordplay
+- [x] [Puns and Wordplay](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Shakepeare-s%20Techniques/Puns%20and%20Wordplay.md)
 - [ ] Imagery and Symbolism
 
 ### A Christmas Carol
