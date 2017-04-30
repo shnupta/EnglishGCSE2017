@@ -54,6 +54,6 @@ View the [table of themes.](https://github.com/shnupta/EnglishGCSE2017/blob/mast
 - [x] [Reality of Conflict](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes/Reality%20of%20conflict.md)
 - [x] [Loss and Absence](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes/Loss%20and%20Absence.md)
 - [x] [Memory](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes/Memory.md)
-- [ ] Negative Emotions
+- [x] [Negative Emotions](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes/Negative%20Emotions.md)
 - [x] [Identity](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes/Identity.md)
 - [x] [Individual Experiences](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes/Individual%20Experiences.md)
