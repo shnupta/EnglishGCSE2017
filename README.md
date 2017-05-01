@@ -39,7 +39,25 @@ No current resources available.
 - [x] [Imagery and Symbolism](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Macbeth/Shakepeare-s%20Techniques/Imagery%20and%20Symbolism.md)
 
 ### A Christmas Carol
-Not yet done.
+#### Characters:
+- [x] [Ebenezer Scrooge](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Characters/Ebenezer%20Scrooge.md)
+- [ ] Jacob Marley
+- [ ] Fred
+- [ ] The Ghosts 
+- [ ] The Cratchit Family
+- [ ] Characters From Scrooge's Past
+- [ ] Other Characters
+
+#### Themes:
+- [ ] The Christmas Spirit
+- [ ] Redemption
+- [ ] Poverty and Social Responsibility
+- [ ] Family
+
+#### Dickens' Techniques
+- [ ] Scructure and Narrative
+- [ ] Language
+- [ ] Symbolism and Imagery
 
 ### An Inspector Calls
 Not yet done.
