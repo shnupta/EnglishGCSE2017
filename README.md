@@ -60,7 +60,13 @@ No current resources available.
 - [ ] Symbolism and Imagery
 
 ### An Inspector Calls
-Not yet done.
+#### Characters:
+- [x] [The Inspector](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/An%20Inspector%20Calls/Characters/Inspector.md)
+- [ ] Mr Birling
+- [ ] Mrs Birling
+- [ ] Shelia
+- [ ] Eric
+- [ ] Gerald
 
 ### Power and Conflict Poetry
 View the [table of themes.](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes.md)
