@@ -7,7 +7,7 @@ No current resources available.
 ## Literature GCSE
 ### The literature pieces are:
 - [Macbeth](#Macbeth)
-- A Christmas Carol
+- [A Christmas Carol](#a-christmas-carol)
 - An Inspector Calls
 - [Power and Conflict Poetry](#power-and-conflict-poetry)
 
@@ -41,9 +41,9 @@ No current resources available.
 ### A Christmas Carol
 #### Characters:
 - [x] [Ebenezer Scrooge](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Characters/Ebenezer%20Scrooge.md)
-- [ ] Jacob Marley
-- [ ] Fred
-- [ ] The Ghosts 
+- [x] [Jacob Marley](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Characters/Jacob%20Marley.md)
+- [x] [Fred](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Characters/Fred.md)
+- [x] [The Ghosts](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Characters/The%20Ghosts.md)
 - [ ] The Cratchit Family
 - [ ] Characters From Scrooge's Past
 - [ ] Other Characters
