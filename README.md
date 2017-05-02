@@ -46,7 +46,7 @@ No current resources available.
 - [x] [The Ghosts](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Characters/The%20Ghosts.md)
 - [x] [The Cratchit Family](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Characters/The%20Cratchit%20Family.md)
 - [x] [Characters From Scrooge's Past](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Characters/Characters%20From%20Scrooge's%20Past.md)
-- [ ] Other Characters
+- [x] [Other Characters](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Characters/Other%20Characters.md)
 
 #### Themes:
 - [ ] The Christmas Spirit
