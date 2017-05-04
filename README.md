@@ -49,8 +49,8 @@ No current resources available.
 - [x] [Other Characters](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Characters/Other%20Characters.md)
 
 #### Themes:
-- [ ] The Christmas Spirit
-- [ ] Redemption
+- [x] [The Christmas Spirit](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Themes/The%20Christmas%20Spirit.md)
+- [x] [Redemption](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Themes/Redemption.md)
 - [ ] Poverty and Social Responsibility
 - [ ] Family
 
