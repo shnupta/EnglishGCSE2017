@@ -62,9 +62,9 @@ No current resources available.
 ### An Inspector Calls
 #### Characters:
 - [x] [The Inspector](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/An%20Inspector%20Calls/Characters/Inspector.md)
-- [ ] Mr Birling
-- [ ] Mrs Birling
-- [ ] Shelia
+- [x] [Mr Birling](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/An%20Inspector%20Calls/Characters/Mr%20Birling.md)
+- [x] [Mrs Birling](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/An%20Inspector%20Calls/Characters/Mrs%20Birling.md)
+- [x] [Shelia](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/An%20Inspector%20Calls/Characters/Shelia%20Birling.md)
 - [ ] Eric
 - [ ] Gerald
 
