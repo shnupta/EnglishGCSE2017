@@ -8,7 +8,7 @@ No current resources available.
 ### The literature pieces are:
 - [Macbeth](#Macbeth)
 - [A Christmas Carol](#a-christmas-carol)
-- An Inspector Calls
+- [An Inspector Calls](#an-inspector-calls)
 - [Power and Conflict Poetry](#power-and-conflict-poetry)
 
 ### Macbeth
