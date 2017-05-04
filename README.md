@@ -51,7 +51,7 @@ No current resources available.
 #### Themes:
 - [x] [The Christmas Spirit](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Themes/The%20Christmas%20Spirit.md)
 - [x] [Redemption](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Themes/Redemption.md)
-- [ ] Poverty and Social Responsibility
+- [x] [Poverty and Social Responsibility](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Themes/Poverty%20and%20Social%20Responsibility.md)
 - [ ] Family
 
 #### Dickens' Techniques
