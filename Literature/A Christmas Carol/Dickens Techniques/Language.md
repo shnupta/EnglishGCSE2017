@@ -31,4 +31,20 @@
 ## Figurative language creates powerful descriptions
 - Dickens uses similes to create a comic and lighthearted mood. Even a sinister image like Marley's chain is softened by a humorous simile — it "wound about him like a tail". 
 - However, there are other more sombre examples of figurative language in the text, such as the metaphor used in the description of the fog as being so dense that "the houses opposite were mere phantoms".
-- Dickens often uses hyperboles (exaggeration) to make his descriptions more entrain .The Cratchits react as if their goose is "the rarest of all birds; a feathered phenomenon, to which a black swan was a matter of course", demonstrating how much they appreciate their meagre Christmas dinner. 
+- Dickens often uses hyperboles (exaggeration) to make his descriptions more entrain .The Cratchits react as if their goose is "the rarest of all birds; a feathered phenomenon, to which a black swan was a matter of course", demonstrating how much they appreciate their meagre Christmas dinner.
+
+
+## Dialogue creates different moods
+Dickens uses a lot of dialogue in A Christmas Carol to reveal various characters' thoughts and feelings. He also describes the speakers' manner and body language.
+- Belle speaks "gently", but honestly. Her tears and her caring language reveal that Scrooge was on, loved. She tells Scrooge she's leaving him "With a full heart, for the love of him you once were", Belle's soft, sad words make the reader feel sorry for Scrooge that he's lost her love due to his own greed.
+- Dickens contrasts the kind-hearted dialogue of the charity collectors with Scrooge's uncaring response The charity collectors find it "more than usually desirable" to provide some "slight provision for the poor and destitute". Scrooge says that if the poor "would rather die... they had better do it".
+- There's a contrast in Cratchits' dialogue as the tone of their conversation changes. Before Tiny Tim's death, their conversations are littered with enthusiastic exclamations like "Hurrah!" and "Lord bless ye!" But afterwards, their language is sombre — their dialogue seems much quieter and hesitant. 
+
+## Questions help the reader to engage with the text 
+- Dickens often uses questions to engage the reader. At the start of the text, the narrator asks, "Scrooge knew he was dead? Of course he did." This gives the impression of a conversation  with the reader — it's as if he's answering their questions.
+- he narrator also asks questions and leaves them unanswered — when Scrooge sees people from his childhood celebrating Christmas, the narrator asks "What was merry Christmas to Scrooge?... What good had it ever done to him?" These questions make the reader think about what Scrooge might have been like once.
+- Dickens also uses questions to show how Scrooge is changing: 
+  - The Ghost of Christmas Past tries to get Scrooge to say what he's feeling by asking questions like "Wha is the matter?" and "Something, I think?" The ghost is trying to draw the emotions out of Scrooge. 
+  - The Ghost of Christmas Present asks Scrooge questions that force him to think about his attitude — "Will you decide what men shall live, what men shall die?" Scrooge also asks questions, which shows his willingness to learn — "Is there a peculiar flavour in what you sprinkle from your torch?" 
+  - The last ghost doesn't speak, so Scrooge is left to ask all the questions. At the end of the chapter, he frantically asks the ghost "Are these the shadows of the things that Will be". He doesn't receive any answers, but his questions reveal that he's determined to change his ways. 
+- Although the ghosts' questions are directed at Scrooge, they're also designed to make the reader think about their own attitude, and whether they should take more responsibility for those around them. 
