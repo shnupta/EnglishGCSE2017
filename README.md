@@ -65,8 +65,9 @@ No current resources available.
 - [x] [Mr Birling](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/An%20Inspector%20Calls/Characters/Mr%20Birling.md)
 - [x] [Mrs Birling](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/An%20Inspector%20Calls/Characters/Mrs%20Birling.md)
 - [x] [Shelia](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/An%20Inspector%20Calls/Characters/Shelia%20Birling.md)
-- [ ] Eric
-- [ ] Gerald
+- [x] [Eric](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/An%20Inspector%20Calls/Characters/Eric%20Birling.md)
+- [x] [Gerald](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/An%20Inspector%20Calls/Characters/Gerald%20Croft.md)
+- [x] [Eva/Daisy](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/An%20Inspector%20Calls/Characters/Eva%20Smith_Daisy%20Renton.md)
 
 ### Power and Conflict Poetry
 View the [table of themes.](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/Power%20and%20Conflict%20Poetry/Themes.md)
