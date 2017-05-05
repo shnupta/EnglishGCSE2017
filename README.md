@@ -55,9 +55,9 @@ No current resources available.
 - [x] [Family](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Themes/Family.md)
 
 #### Dickens' Techniques
-- [ ] Scructure and Narrative
-- [ ] Language
-- [ ] Symbolism and Imagery
+- [x] [Scructure and Narrative](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Dickens%20Techniques/Structure%20and%20Narrative.md)
+- [x] [Language](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Dickens%20Techniques/Language.md)
+- [x] [Symbolism and Imagery](https://github.com/shnupta/EnglishGCSE2017/blob/master/Literature/A%20Christmas%20Carol/Dickens%20Techniques/Symbolism%20and%20Imagery.md)
 
 ### An Inspector Calls
 #### Characters:
